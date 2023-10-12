@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 32,
+        "email": "johndoe@example.com",
+        "city": "Springfield",
+        "country": "USA"
+    },
+    {
+        "id": 2,
+        "name": "Alice Smith",
+        "age": 28,
+        "email": "alicesmith@example.com",
+        "city": "Meadowville",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "Robert Johnson",
+        "age": 45,
+        "email": "robertjohnson@example.com",
+        "city": "Riverside",
+        "country": "Australia"
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "age": 30,
+        "email": "emilydavis@example.com",
+        "city": "Lancaster",
+        "country": "UK"
+    },
+    {
+        "id": 5,
+        "name": "Michael Brown",
+        "age": 38,
+        "email": "michaelbrown@example.com",
+        "city": "Hillside",
+        "country": "New Zealand"
+    },
+    {
+        "id": 6,
+        "name": "Sarah Wilson",
+        "age": 29,
+        "email": "sarahwilson@example.com",
+        "city": "Woodside",
+        "country": "Ireland"
+    },
+    {
+        "id": 7,
+        "name": "David Lee",
+        "age": 35,
+        "email": "davidlee@example.com",
+        "city": "Greenfield",
+        "country": "South Africa"
+    },
+    {
+        "id": 8,
+        "name": "Linda Martinez",
+        "age": 42,
+        "email": "lindamartinez@example.com",
+        "city": "Sunnydale",
+        "country": "Mexico"
+    },
+    {
+        "id": 9,
+        "name": "James Clark",
+        "age": 27,
+        "email": "jamesclark@example.com",
+        "city": "Lakeview",
+        "country": "France"
+    },
+    {
+        "id": 10,
+        "name": "Jennifer Taylor",
+        "age": 33,
+        "email": "jennifertaylor@example.com",
+        "city": "Havenbrook",
+        "country": "Spain"
+    }
+]
